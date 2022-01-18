@@ -10,6 +10,7 @@ body{
     background-image: url("images/Circle\ design.svg");
     background-repeat: no-repeat;
     background-position: center;
+    width: 100%;
 }
 /* .banner-right img{
  margin-left: 48px;
