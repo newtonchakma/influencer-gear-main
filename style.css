@@ -1,0 +1,24 @@
+
+body{
+   
+}
+
+.navbarNav{
+   
+}
+.banner-right{
+    background-image: url("images/Circle\ design.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner-right img{
+ margin-left: 48px;
+ margin-top: 45px;
+}
+#ankor {
+ margin-right: 38px;
+ align-items: center;  
+}
+.fas{
+    margin-left: 8px;
+}
